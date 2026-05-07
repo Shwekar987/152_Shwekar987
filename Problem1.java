@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class Main {
+public class Problem1 {
 
     public static int maxCyclicSum(String s) {
         int n = s.length();
